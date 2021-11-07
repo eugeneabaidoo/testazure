@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ucomputingghappserver1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14F07AC935464DB6AA0DFE079A17E78A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C8DB678E2357442B8084E0E645E098B1 }}
           package: .
